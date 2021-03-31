@@ -1,0 +1,11 @@
+{
+    "route_type": "public",
+    "route_prefix": "redirect",
+    "sub_name": "",
+    "format": "",
+    "build_class": "",
+    "build_method": "",
+    "controller": "lulzapps\\GuestRegisterRedirect:Redirect",
+    "context": "home",
+    "action_prefix": ""
+}
